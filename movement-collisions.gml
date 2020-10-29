@@ -9,7 +9,7 @@ movespeed = 4;
 var hspd = 0;
 var vspd = 0;
 var key_left = keyboard_check(vk_left) || keyboard_check(ord('A'));  //The "||" represents "or"
-var key_left = keyboard_check(vk_right) || keyboard_check(ord('D'));
+var key_right = keyboard_check(vk_right) || keyboard_check(ord('D'));
 var key_up = keyboard_check(vk_up) || keyboard_check(ord('W'));
 var key_down = keyboard_check(vk_down) || keyboard_check(ord('S'));
 

@@ -37,7 +37,7 @@ if (key_down)
 //Collisions
 //If normal movement gives collision, move 1 pixel at a time until colliding
 //Horizontal Collision
-if (place_meeting(x+hspd,y,obj_wall)
+if (place_meeting(x+hspd,y,obj_wall))
 {
   while (!place_meeting(x+sign(hspd),y,obj_wall))
   {

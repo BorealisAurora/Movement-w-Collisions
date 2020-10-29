@@ -31,7 +31,7 @@ if (key_up)
 
 if (key_down)
 {
-    hspd += movespeed;  
+    vspd += movespeed;  
 }
 
 //Collisions

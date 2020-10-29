@@ -5,7 +5,6 @@ movespeed = 4;
 
 //--STEP EVENT--
 ///Main
-
 //Create variables
 var hspd = 0;
 var vspd = 0;

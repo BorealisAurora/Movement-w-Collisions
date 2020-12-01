@@ -1,5 +1,5 @@
 //--CREATE EVENT--
-movespeed = 4;
+movespeed = 4; //moves by 4 pixels
 
 
 
